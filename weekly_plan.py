@@ -45,7 +45,12 @@ Weekly Review:: [[Weekly Review {monday}]]
     Sunday: [[{sunday}]]
 ## [[Daily Habits]]
     If these have a daily notes attribute, add what you did to those.
-    Habit 1 - Every day example
+    Process "Things to Process" and Writing Inbox
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    Process Reading Inboxes
         {{{{[[TODO]]}}}} [[{monday}]]
         {{{{[[TODO]]}}}} [[{tuesday}]]
         {{{{[[TODO]]}}}} [[{wednesday}]]
@@ -53,11 +58,45 @@ Weekly Review:: [[Weekly Review {monday}]]
         {{{{[[TODO]]}}}} [[{friday}]]
         {{{{[[TODO]]}}}} [[{saturday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
-    Habit 2 - Both weekend days
+    Research One Research Topic
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+    [[Exercise]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
         {{{{[[TODO]]}}}} [[{saturday}]]
         {{{{[[TODO]]}}}} [[{sunday}]]
-    Habit 3 - Once a week
+    [[Read]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
         {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    [[Greek]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    [[Bass]]
+        {{{{[[TODO]]}}}} [[{monday}]]
+        {{{{[[TODO]]}}}} [[{tuesday}]]
+        {{{{[[TODO]]}}}} [[{wednesday}]]
+        {{{{[[TODO]]}}}} [[{thursday}]]
+        {{{{[[TODO]]}}}} [[{friday}]]
+        {{{{[[TODO]]}}}} [[{saturday}]]
+        {{{{[[TODO]]}}}} [[{sunday}]]
+    Work on newsletter
+        {{{{[[TODO]]}}}} [[{friday}]]
+    Update public mind garden
+        {{{{[[TODO]]}}}} [[{saturday}]]
     """.format(
         monday=week[0],
         tuesday=week[1],
